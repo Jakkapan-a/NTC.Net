@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTC.Net", "NTC.Net\NTC.Net.csproj", "{2B54D730-347B-4EB9-857F-666FB80C8D47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTC.Net Test", "NTC.Net Test\NTC.Net Test.csproj", "{3A185497-EE5C-4EA0-AC56-A60A80AD5202}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B54D730-347B-4EB9-857F-666FB80C8D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B54D730-347B-4EB9-857F-666FB80C8D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B54D730-347B-4EB9-857F-666FB80C8D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B54D730-347B-4EB9-857F-666FB80C8D47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A185497-EE5C-4EA0-AC56-A60A80AD5202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A185497-EE5C-4EA0-AC56-A60A80AD5202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A185497-EE5C-4EA0-AC56-A60A80AD5202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A185497-EE5C-4EA0-AC56-A60A80AD5202}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A033FE9C-9203-40FE-875A-D912AB46D67C}
+	EndGlobalSection
+EndGlobal
